@@ -1,1 +1,1 @@
-## Repository for John Hopkins data science specializatio on Coursera
+## Repository for John Hopkins data science specialization on Coursera
